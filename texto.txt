@@ -1,0 +1,4 @@
+SeLeCt name froM table2 wHEre a2;
+select name from TOCTOC where VIZCARRA;
+SELECT43 ApelLiDO43 FROM el3Tablon4 WHERE La4Lista;
+SeLeCt CaMaRoN a4 FrOm PoLliTo a La Brasa WhErE a43;
